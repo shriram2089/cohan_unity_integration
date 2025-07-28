@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/devel/.private/pr2_fake_driver
+
+Name: pr2_fake_driver
+Description: Description of pr2_fake_driver
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

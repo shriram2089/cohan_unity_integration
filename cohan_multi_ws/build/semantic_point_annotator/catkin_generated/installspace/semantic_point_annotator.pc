@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/install
+
+Name: semantic_point_annotator
+Description: Description of semantic_point_annotator
+Version: 0.2.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp tf pcl_ros

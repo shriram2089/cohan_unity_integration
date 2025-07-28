@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/devel/.private/invisible_humans_detection
+
+Name: invisible_humans_detection
+Description: Description of invisible_humans_detection
+Version: 0.0.0
+Cflags: -I/home/shari/cohan_multi_ws/src/cohan_planner_multi/invisible_humans_detection/include
+Libs: -L${prefix}/lib -linvisible_humans_detection
+Requires: angles costmap_2d geometry_msgs roscpp rospy nav_msgs

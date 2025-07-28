@@ -1,0 +1,7 @@
+Symlinking /home/shari/cohan_multi_ws/devel/lib/libpr2_navigation_self_filter.so
+Symlinking /home/shari/cohan_multi_ws/devel/lib/libpr2_navigation_geometric_shapes.so
+Symlinking /home/shari/cohan_multi_ws/devel/lib/pkgconfig/pr2_navigation_self_filter.pc
+Symlinking /home/shari/cohan_multi_ws/devel/lib/pr2_navigation_self_filter/self_filter
+Symlinking /home/shari/cohan_multi_ws/devel/lib/pr2_navigation_self_filter/test_filter
+Symlinking /home/shari/cohan_multi_ws/devel/share/pr2_navigation_self_filter/cmake/pr2_navigation_self_filterConfig-version.cmake
+Symlinking /home/shari/cohan_multi_ws/devel/share/pr2_navigation_self_filter/cmake/pr2_navigation_self_filterConfig.cmake

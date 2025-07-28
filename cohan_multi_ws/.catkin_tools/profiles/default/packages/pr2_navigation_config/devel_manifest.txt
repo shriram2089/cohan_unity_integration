@@ -1,0 +1,4 @@
+pr2_navigation/pr2_navigation_config
+/home/shari/cohan_multi_ws/devel/.private/pr2_navigation_config/lib/pkgconfig/pr2_navigation_config.pc /home/shari/cohan_multi_ws/devel/lib/pkgconfig/pr2_navigation_config.pc
+/home/shari/cohan_multi_ws/devel/.private/pr2_navigation_config/share/pr2_navigation_config/cmake/pr2_navigation_configConfig-version.cmake /home/shari/cohan_multi_ws/devel/share/pr2_navigation_config/cmake/pr2_navigation_configConfig-version.cmake
+/home/shari/cohan_multi_ws/devel/.private/pr2_navigation_config/share/pr2_navigation_config/cmake/pr2_navigation_configConfig.cmake /home/shari/cohan_multi_ws/devel/share/pr2_navigation_config/cmake/pr2_navigation_configConfig.cmake

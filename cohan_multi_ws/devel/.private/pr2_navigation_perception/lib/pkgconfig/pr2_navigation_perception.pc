@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/devel/.private/pr2_navigation_perception
+
+Name: pr2_navigation_perception
+Description: Description of pr2_navigation_perception
+Version: 0.2.0
+Cflags: -I/home/shari/cohan_multi_ws/src/pr2_navigation/pr2_navigation_perception/config/pr2_laser_filters/include
+Libs: -L${prefix}/lib -lpr2_point_cloud_filters
+Requires: semantic_point_annotator laser_filters pr2_machine topic_tools pr2_navigation_self_filter geometry_msgs dynamic_reconfigure sensor_msgs roscpp tf filters message_filters laser_geometry laser_tilt_controller_filter pcl_ros

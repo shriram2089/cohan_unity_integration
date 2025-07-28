@@ -1,0 +1,4 @@
+[ 40%] Built target pr2_navigation_geometric_shapes
+[ 60%] Built target pr2_navigation_self_filter
+[ 80%] Built target self_filter
+[100%] Built target test_filter

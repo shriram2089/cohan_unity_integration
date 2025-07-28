@@ -1,0 +1,2 @@
+set(hateb_local_planner_MESSAGE_FILES "/home/shari/cohan2_ws/src/CoHAN2.0/src/hateb_local_planner/msg/ObstacleMsg.msg;/home/shari/cohan2_ws/src/CoHAN2.0/src/hateb_local_planner/msg/OptimizationCost.msg;/home/shari/cohan2_ws/src/CoHAN2.0/src/hateb_local_planner/msg/OptimizationCostArray.msg;/home/shari/cohan2_ws/src/CoHAN2.0/src/hateb_local_planner/msg/FeedbackMsg.msg;/home/shari/cohan2_ws/src/CoHAN2.0/src/hateb_local_planner/msg/PlanningMode.msg")
+set(hateb_local_planner_SERVICE_FILES "")

@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/devel/.private/gazebo_ros_actor_plugin
+
+Name: gazebo_ros_actor_plugin
+Description: Description of gazebo_ros_actor_plugin
+Version: 0.0.0
+Cflags: -I/home/shari/cohan_multi_ws/src/CoHAN_Navigation/simulators/gazebo/gazebo-ros-actor-plugin/include
+Libs: -L${prefix}/lib -lgazebo_ros_actor_command
+Requires: gazebo_ros gazebo_plugins geometry_msgs nav_msgs

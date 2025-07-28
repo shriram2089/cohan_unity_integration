@@ -1,0 +1,4 @@
+<launch>
+  <node name="fake_pr2_driver" pkg="pr2_fake_driver" type="fake_pr2_driver.py" output="screen" />
+  <node name="fake_actor_path_publisher" pkg="pr2_fake_driver" type="fake_actor_path_publisher.py" output="screen" />
+</launch>

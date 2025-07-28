@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/install
+
+Name: pr2_navigation_teleop
+Description: Description of pr2_navigation_teleop
+Version: 0.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: pr2_teleop pr2_machine topic_tools

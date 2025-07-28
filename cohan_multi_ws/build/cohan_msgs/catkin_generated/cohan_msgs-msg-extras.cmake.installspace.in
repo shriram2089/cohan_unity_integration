@@ -1,0 +1,2 @@
+set(cohan_msgs_MESSAGE_FILES "msg/AgentPath.msg;msg/AgentPathArray.msg;msg/AgentTimeToGoal.msg;msg/AgentTimeToGoalArray.msg;msg/AgentTrajectory.msg;msg/AgentTrajectoryArray.msg;msg/AgentType.msg;msg/TrackedSegment.msg;msg/TrackedAgent.msg;msg/TrackedAgents.msg;msg/TrackedSegmentType.msg;msg/Trajectory.msg;msg/TrajectoryArray.msg;msg/TrajectoryPoint.msg;msg/TrajectoryPointMsg.msg;msg/TrajectoryMsg.msg;msg/StateArray.msg;msg/AgentMarker.msg;msg/AgentMarkerStamped.msg;msg/PointArray.msg")
+set(cohan_msgs_SERVICE_FILES "")

@@ -1,0 +1,34 @@
+[01m[K/home/shari/cohan_multi_ws/src/cohan_planner_multi/hateb_local_planner/src/optimal_planner.cpp:[m[K In member function ‘[01m[Kbool hateb_local_planner::TebOptimalPlanner::optimizeTEB(int, int, bool, double, double, bool, hateb_local_planner::OptimizationCostArray*)[m[K’:
+[01m[K/home/shari/cohan_multi_ws/src/cohan_planner_multi/hateb_local_planner/src/optimal_planner.cpp:214:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  214 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+In file included from [01m[K/home/shari/cohan_multi_ws/src/cohan_planner_multi/hateb_local_planner/include/hateb_local_planner/hateb_config.h:43[m[K,
+                 from [01m[K/home/shari/cohan_multi_ws/src/cohan_planner_multi/hateb_local_planner/include/hateb_local_planner/optimal_planner.h:47[m[K,
+                 from [01m[K/home/shari/cohan_multi_ws/src/cohan_planner_multi/hateb_local_planner/src/optimal_planner.cpp:44[m[K:
+[01m[K/home/shari/cohan_multi_ws/src/cohan_planner_multi/hateb_local_planner/src/optimal_planner.cpp:[m[K In member function ‘[01m[Kvirtual bool hateb_local_planner::TebOptimalPlanner::plan(const std::vector<geometry_msgs::PoseStamped_<std::allocator<void> > >&, const Twist*, bool, const AgentPlanVelMap*, hateb_local_planner::OptimizationCostArray*, double, double, int)[m[K’:
+[01m[K/home/shari/cohan_multi_ws/src/cohan_planner_multi/hateb_local_planner/src/optimal_planner.cpp:457:16:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 8 has type ‘[01m[Kstd::map<long unsigned int, hateb_local_planner::PlanStartVelGoalVel>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wformat=[m[K]
+  457 |       ROS_INFO([01;35m[K"no or multiple agents for approaching %d"[m[K, [32m[Kinitial_agent_plan_vel_map->size()[m[K);
+      |                [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K  [32m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                                                                            [32m[K|[m[K
+      |                                                                                            [32m[Kstd::map<long unsigned int, hateb_local_planner::PlanStartVelGoalVel>::size_type {aka long unsigned int}[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/shari/cohan_multi_ws/src/cohan_planner_multi/hateb_local_planner/src/optimal_planner.cpp:457:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+  457 |       [01;36m[KROS_INFO[m[K("no or multiple agents for approaching %d", initial_agent_plan_vel_map->size());
+      |       [01;36m[K^~~~~~~~[m[K
+[01m[K/home/shari/cohan_multi_ws/src/cohan_planner_multi/hateb_local_planner/src/optimal_planner.cpp:457:56:[m[K [01;36m[Knote: [m[Kformat string is defined here
+  457 |       ROS_INFO("no or multiple agents for approaching [01;36m[K%d[m[K", initial_agent_plan_vel_map->size());
+      |                                                       [01;36m[K~^[m[K
+      |                                                        [01;36m[K|[m[K
+      |                                                        [01;36m[Kint[m[K
+      |                                                       [32m[K%ld[m[K

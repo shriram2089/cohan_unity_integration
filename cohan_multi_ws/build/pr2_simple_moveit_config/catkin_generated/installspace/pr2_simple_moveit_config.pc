@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/install
+
+Name: pr2_simple_moveit_config
+Description: Description of pr2_simple_moveit_config
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

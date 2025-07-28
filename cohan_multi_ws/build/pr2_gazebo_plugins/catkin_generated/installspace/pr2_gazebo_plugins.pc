@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/install
+
+Name: pr2_gazebo_plugins
+Description: Description of pr2_gazebo_plugins
+Version: 2.1.0
+Cflags: -I${prefix}/include -I/usr/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3
+Libs: -L${prefix}/lib -lgazebo_ros_controller_manager -lgazebo_ros_power_monitor -lorocos-kdl
+Requires: message_runtime roscpp rospy angles std_msgs nav_msgs sensor_msgs pr2_msgs geometry_msgs diagnostic_msgs gazebo_msgs urdf tf image_transport

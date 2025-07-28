@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shari/cohan2_ws/src/CoHAN2.0/src/cohan2.0_navigation/simulators/cohan_sim/include/cohan_sim/sim.hpp
+SDL2/SDL.h
+-
+yaml-cpp/yaml.h
+-
+X11/Xlib.h
+-
+chrono
+-
+cmath
+-
+csignal
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+filesystem
+-
+iostream
+-
+stdexcept
+-
+string
+-
+thread
+-
+vector
+-
+
+/home/shari/cohan2_ws/src/CoHAN2.0/src/cohan2.0_navigation/simulators/cohan_sim/src/sim.cpp
+cohan_sim/sim.hpp
+-
+

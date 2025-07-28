@@ -1,0 +1,4 @@
+pr2_common/pr2_machine
+/home/shari/cohan_multi_ws/devel/.private/pr2_machine/lib/pkgconfig/pr2_machine.pc /home/shari/cohan_multi_ws/devel/lib/pkgconfig/pr2_machine.pc
+/home/shari/cohan_multi_ws/devel/.private/pr2_machine/share/pr2_machine/cmake/pr2_machineConfig.cmake /home/shari/cohan_multi_ws/devel/share/pr2_machine/cmake/pr2_machineConfig.cmake
+/home/shari/cohan_multi_ws/devel/.private/pr2_machine/share/pr2_machine/cmake/pr2_machineConfig-version.cmake /home/shari/cohan_multi_ws/devel/share/pr2_machine/cmake/pr2_machineConfig-version.cmake

@@ -1,0 +1,4 @@
+CoHAN_Navigation/simulators/morse_ros
+/home/shari/cohan_multi_ws/devel/.private/morse_ros/lib/pkgconfig/morse_ros.pc /home/shari/cohan_multi_ws/devel/lib/pkgconfig/morse_ros.pc
+/home/shari/cohan_multi_ws/devel/.private/morse_ros/share/morse_ros/cmake/morse_rosConfig.cmake /home/shari/cohan_multi_ws/devel/share/morse_ros/cmake/morse_rosConfig.cmake
+/home/shari/cohan_multi_ws/devel/.private/morse_ros/share/morse_ros/cmake/morse_rosConfig-version.cmake /home/shari/cohan_multi_ws/devel/share/morse_ros/cmake/morse_rosConfig-version.cmake

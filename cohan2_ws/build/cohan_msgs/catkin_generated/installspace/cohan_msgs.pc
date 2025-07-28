@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan2_ws/install
+
+Name: cohan_msgs
+Description: Description of cohan_msgs
+Version: 0.0.2
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp message_runtime geometry_msgs nav_msgs tf visualization_msgs

@@ -1,0 +1,6 @@
+devel_space: /home/shari/cohan_multi_ws/devel
+install: false
+install_space: /home/shari/cohan_multi_ws/install
+profile: default
+source_space: /home/shari/cohan_multi_ws/src
+workspace: /home/shari/cohan_multi_ws

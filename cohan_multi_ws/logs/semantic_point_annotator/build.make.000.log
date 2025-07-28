@@ -1,0 +1,7 @@
+[ 16%] [32mBuilding CXX object CMakeFiles/sac_inc_ground_removal_node.dir/src/sac_inc_ground_removal_standalone.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/sac_inc_ground_removal_node.dir/src/sac/sac.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/sac_inc_ground_removal_node.dir/src/sac/ransac.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/sac_inc_ground_removal_node.dir/src/sac/sac_model_line.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/sac_inc_ground_removal_node.dir/src/sac/sac_model.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/shari/cohan_multi_ws/devel/.private/semantic_point_annotator/lib/semantic_point_annotator/sac_inc_ground_removal_node[0m
+[100%] Built target sac_inc_ground_removal_node

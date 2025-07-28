@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/devel/.private/cohan_gazebo
+
+Name: cohan_gazebo
+Description: Description of cohan_gazebo
+Version: 0.1.0
+Cflags: -I/home/shari/cohan_multi_ws/devel/.private/cohan_gazebo/include
+Libs: -L${prefix}/lib 
+Requires: 

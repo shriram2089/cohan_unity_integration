@@ -1,0 +1,4 @@
+Symlinking /home/shari/cohan2_ws/devel/lib/librviz_path_array.so
+Symlinking /home/shari/cohan2_ws/devel/lib/pkgconfig/rviz_path_array.pc
+Symlinking /home/shari/cohan2_ws/devel/share/rviz_path_array/cmake/rviz_path_arrayConfig-version.cmake
+Symlinking /home/shari/cohan2_ws/devel/share/rviz_path_array/cmake/rviz_path_arrayConfig.cmake

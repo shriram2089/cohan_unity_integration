@@ -1,0 +1,286 @@
+[35m[1mScanning dependencies of target _hateb_local_planner_generate_messages_check_deps_ObstacleMsg[0m
+[35m[1mScanning dependencies of target cohan_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target costmap_converter_generate_messages_py[0m
+[35m[1mScanning dependencies of target _hateb_local_planner_generate_messages_check_deps_PlanningMode[0m
+[35m[1mScanning dependencies of target _hateb_local_planner_generate_messages_check_deps_OptimizationCost[0m
+[35m[1mScanning dependencies of target _hateb_local_planner_generate_messages_check_deps_OptimizationCostArray[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target agent_path_prediction_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target costmap_converter_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target _hateb_local_planner_generate_messages_check_deps_FeedbackMsg[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target costmap_converter_generate_messages_py
+[  0%] Built target cohan_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target cohan_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target costmap_converter_generate_messages_lisp
+[  0%] Built target agent_path_prediction_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target cohan_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target _hateb_local_planner_generate_messages_check_deps_PlanningMode
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target hateb_local_planner_gencfg[0m
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target _hateb_local_planner_generate_messages_check_deps_OptimizationCostArray
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target costmap_2d_generate_messages_eus[0m
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target _hateb_local_planner_generate_messages_check_deps_OptimizationCost
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target _hateb_local_planner_generate_messages_check_deps_ObstacleMsg
+[35m[1mScanning dependencies of target costmap_2d_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target costmap_2d_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  2%] [34m[1mGenerating dynamic reconfigure files from cfg/HATebLocalPlannerReconfigure.cfg: /home/shari/cohan2_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/HATebLocalPlannerReconfigureConfig.h /home/shari/cohan2_ws/devel/.private/hateb_local_planner/lib/python3/dist-packages/hateb_local_planner/cfg/HATebLocalPlannerReconfigureConfig.py[0m
+[35m[1mScanning dependencies of target agent_path_prediction_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[  2%] Built target tf2_msgs_generate_messages_eus
+[  2%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target base_local_planner_gencfg[0m
+[35m[1mScanning dependencies of target base_local_planner_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  2%] Built target _hateb_local_planner_generate_messages_check_deps_FeedbackMsg
+[  2%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target base_local_planner_generate_messages_lisp[0m
+[  2%] Built target costmap_2d_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  2%] Built target costmap_2d_generate_messages_cpp
+[  2%] Built target roscpp_generate_messages_eus
+[  2%] Built target agent_path_prediction_generate_messages_eus
+[  2%] Built target base_local_planner_gencfg
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[  2%] Built target costmap_2d_generate_messages_nodejs
+[35m[1mScanning dependencies of target base_local_planner_generate_messages_eus[0m
+[35m[1mScanning dependencies of target base_local_planner_generate_messages_cpp[0m
+[  2%] Built target rosgraph_msgs_generate_messages_lisp
+[  2%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  2%] Built target base_local_planner_generate_messages_py
+[35m[1mScanning dependencies of target map_msgs_generate_messages_py[0m
+[  2%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target costmap_2d_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target costmap_2d_generate_messages_py[0m
+[  2%] Built target base_local_planner_generate_messages_lisp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[  2%] Built target std_srvs_generate_messages_cpp
+[  2%] Built target base_local_planner_generate_messages_cpp
+[  2%] Built target base_local_planner_generate_messages_eus
+[  2%] Built target map_msgs_generate_messages_py
+[  2%] Built target actionlib_msgs_generate_messages_eus
+[  2%] Built target dynamic_reconfigure_generate_messages_py
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[  2%] Built target costmap_2d_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target costmap_2d_gencfg[0m
+Generating reconfiguration files for HATebLocalPlannerReconfigure in hateb_local_planner
+[  2%] Built target costmap_2d_generate_messages_py
+[  2%] Built target nav_msgs_generate_messages_nodejs
+[  2%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[  2%] Built target sensor_msgs_generate_messages_cpp
+[  2%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  2%] Built target tf_generate_messages_lisp
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[  2%] Built target costmap_2d_gencfg
+[  2%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target costmap_converter_gencfg[0m
+[35m[1mScanning dependencies of target map_msgs_generate_messages_eus[0m
+Wrote header file in /home/shari/cohan2_ws/devel/.private/hateb_local_planner/include/hateb_local_planner/HATebLocalPlannerReconfigureConfig.h
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[  2%] Built target dynamic_reconfigure_gencfg
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  2%] Built target dynamic_reconfigure_generate_messages_cpp
+[  2%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  2%] Built target std_msgs_generate_messages_nodejs
+[  2%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target map_msgs_generate_messages_cpp[0m
+[  2%] Built target _catkin_empty_exported_target
+[  2%] Built target costmap_converter_gencfg
+[  2%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target map_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target costmap_converter_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[  2%] Built target std_msgs_generate_messages_cpp
+[  2%] Built target map_msgs_generate_messages_eus
+[  2%] Built target tf2_msgs_generate_messages_lisp
+[  2%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target cohan_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[  2%] Built target map_msgs_generate_messages_cpp
+[  2%] Built target costmap_converter_generate_messages_cpp
+[  2%] Built target map_msgs_generate_messages_lisp
+[  2%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[  2%] Built target visualization_msgs_generate_messages_eus
+[  2%] Built target nav_msgs_generate_messages_cpp
+[  2%] Built target nav_msgs_generate_messages_lisp
+[  2%] Built target tf2_msgs_generate_messages_cpp
+[  2%] Built target nav_msgs_generate_messages_eus
+[  2%] Built target cohan_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target costmap_converter_generate_messages_eus[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[  2%] Built target hateb_local_planner_gencfg
+[35m[1mScanning dependencies of target mbf_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target costmap_converter_generate_messages_nodejs[0m
+[  2%] Built target visualization_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target map_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target mbf_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  2%] Built target costmap_converter_generate_messages_eus
+[  2%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target mbf_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target base_local_planner_generate_messages_nodejs[0m
+[  2%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target mbf_msgs_generate_messages_nodejs[0m
+[  2%] Built target visualization_msgs_generate_messages_nodejs
+[  2%] Built target std_srvs_generate_messages_py
+[  2%] Built target mbf_msgs_generate_messages_lisp
+[  2%] Built target visualization_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target mbf_msgs_generate_messages_py[0m
+[  2%] Built target costmap_converter_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  2%] Built target map_msgs_generate_messages_nodejs
+[  2%] Built target actionlib_msgs_generate_messages_lisp
+[  2%] Built target mbf_msgs_generate_messages_cpp
+[  2%] Built target mbf_msgs_generate_messages_nodejs
+[  2%] Built target mbf_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target agent_path_prediction_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[  2%] Built target base_local_planner_generate_messages_nodejs
+[  2%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target agent_path_prediction_generate_messages_py[0m
+[35m[1mScanning dependencies of target agent_path_prediction_gencfg[0m
+[  2%] Built target mbf_msgs_generate_messages_py
+[35m[1mScanning dependencies of target agent_path_prediction_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target cohan_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[  2%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[  2%] Built target std_srvs_generate_messages_lisp
+[  2%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  2%] Built target agent_path_prediction_generate_messages_nodejs
+[35m[1mScanning dependencies of target hateb_local_planner_generate_messages_py[0m
+[35m[1mScanning dependencies of target cohan_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target hateb_local_planner_generate_messages_lisp[0m
+[  2%] Built target agent_path_prediction_gencfg
+[  2%] Built target agent_path_prediction_generate_messages_py
+[  2%] Built target agent_path_prediction_generate_messages_lisp
+[  2%] Built target cohan_msgs_generate_messages_nodejs
+[  2%] Built target tf_generate_messages_eus
+[  2%] Built target visualization_msgs_generate_messages_cpp
+[  2%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target hateb_local_planner_generate_messages_cpp[0m
+[  4%] [34m[1mGenerating Python from MSG hateb_local_planner/ObstacleMsg[0m
+[  6%] Built target cohan_msgs_generate_messages_eus
+[  6%] [34m[1mGenerating Python from MSG hateb_local_planner/FeedbackMsg[0m
+[  8%] [34m[1mGenerating Lisp code from hateb_local_planner/ObstacleMsg.msg[0m
+[  8%] Built target actionlib_generate_messages_cpp
+[ 10%] [34m[1mGenerating Python from MSG hateb_local_planner/PlanningMode[0m
+[ 13%] [34m[1mGenerating Python from MSG hateb_local_planner/OptimizationCostArray[0m
+[ 15%] [34m[1mGenerating Python from MSG hateb_local_planner/OptimizationCost[0m
+[ 17%] [34m[1mGenerating Lisp code from hateb_local_planner/PlanningMode.msg[0m
+[ 19%] [34m[1mGenerating Lisp code from hateb_local_planner/OptimizationCost.msg[0m
+[ 21%] [34m[1mGenerating Lisp code from hateb_local_planner/OptimizationCostArray.msg[0m
+[ 23%] [34m[1mGenerating Lisp code from hateb_local_planner/FeedbackMsg.msg[0m
+[35m[1mScanning dependencies of target hateb_local_planner_generate_messages_nodejs[0m
+[ 26%] [34m[1mGenerating C++ code from hateb_local_planner/OptimizationCost.msg[0m
+[ 28%] [34m[1mGenerating C++ code from hateb_local_planner/ObstacleMsg.msg[0m
+[ 30%] [34m[1mGenerating C++ code from hateb_local_planner/OptimizationCostArray.msg[0m
+[35m[1mScanning dependencies of target hateb_local_planner_generate_messages_eus[0m
+[ 32%] [34m[1mGenerating C++ code from hateb_local_planner/PlanningMode.msg[0m
+[ 34%] [34m[1mGenerating C++ code from hateb_local_planner/FeedbackMsg.msg[0m
+[ 36%] [34m[1mGenerating Javascript code from hateb_local_planner/ObstacleMsg.msg[0m
+[ 39%] [34m[1mGenerating EusLisp code from hateb_local_planner/ObstacleMsg.msg[0m
+[ 41%] [34m[1mGenerating EusLisp code from hateb_local_planner/OptimizationCost.msg[0m
+[ 43%] [34m[1mGenerating Javascript code from hateb_local_planner/OptimizationCost.msg[0m
+[ 45%] [34m[1mGenerating Javascript code from hateb_local_planner/OptimizationCostArray.msg[0m
+[ 47%] [34m[1mGenerating Javascript code from hateb_local_planner/FeedbackMsg.msg[0m
+[ 50%] Built target hateb_local_planner_generate_messages_lisp
+[ 50%] [34m[1mGenerating EusLisp code from hateb_local_planner/OptimizationCostArray.msg[0m
+[ 52%] [34m[1mGenerating Javascript code from hateb_local_planner/PlanningMode.msg[0m
+[ 54%] [34m[1mGenerating EusLisp code from hateb_local_planner/FeedbackMsg.msg[0m
+[ 56%] [34m[1mGenerating EusLisp code from hateb_local_planner/PlanningMode.msg[0m
+[ 58%] [34m[1mGenerating EusLisp manifest code for hateb_local_planner[0m
+[ 58%] Built target hateb_local_planner_generate_messages_nodejs
+[ 58%] Built target hateb_local_planner_generate_messages_cpp
+[ 60%] [34m[1mGenerating Python msg __init__.py for hateb_local_planner[0m
+[ 60%] Built target hateb_local_planner_generate_messages_py
+[ 60%] Built target hateb_local_planner_generate_messages_eus
+[35m[1mScanning dependencies of target hateb_local_planner_generate_messages[0m
+[35m[1mScanning dependencies of target hateb_local_planner[0m
+[ 60%] Built target hateb_local_planner_generate_messages
+[ 63%] [32mBuilding CXX object CMakeFiles/hateb_local_planner.dir/src/obstacles.cpp.o[0m
+[ 67%] [32mBuilding CXX object CMakeFiles/hateb_local_planner.dir/src/optimal_planner.cpp.o[0m
+[ 67%] [32mBuilding CXX object CMakeFiles/hateb_local_planner.dir/src/hateb_config.cpp.o[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/hateb_local_planner.dir/src/timed_elastic_band.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/hateb_local_planner.dir/src/visualization.cpp.o[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/hateb_local_planner.dir/src/recovery_behaviors.cpp.o[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/hateb_local_planner.dir/src/behavior_tree/condition/backoff_exit_condition.cpp.o[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/hateb_local_planner.dir/src/backoff.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/hateb_local_planner.dir/src/behavior_tree/condition/is_goal_updated.cpp.o[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/hateb_local_planner.dir/src/behavior_tree/condition/is_goal_reached.cpp.o[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/hateb_local_planner.dir/src/hateb_local_planner_ros.cpp.o[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/hateb_local_planner.dir/src/behavior_tree/condition/vel_obs_exit_condition.cpp.o[0m
+[ 89%] [32mBuilding CXX object CMakeFiles/hateb_local_planner.dir/src/behavior_tree/condition/single_band_exit_condition.cpp.o[0m
+[ 91%] [32mBuilding CXX object CMakeFiles/hateb_local_planner.dir/src/behavior_tree/condition/dual_band_exit_condition.cpp.o[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/hateb_local_planner.dir/src/behavior_tree/condition/passthrough_condition.cpp.o[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/hateb_local_planner.dir/src/behavior_tree/action/set_mode.cpp.o[0m
+[ 97%] [32mBuilding CXX object CMakeFiles/hateb_local_planner.dir/src/mode_switch.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/shari/cohan2_ws/devel/.private/hateb_local_planner/lib/libhateb_local_planner.so[0m
+[100%] Built target hateb_local_planner

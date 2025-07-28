@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/install
+
+Name: pr2_navigation_global
+Description: Description of pr2_navigation_global
+Version: 0.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

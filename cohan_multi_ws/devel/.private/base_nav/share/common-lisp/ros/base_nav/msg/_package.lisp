@@ -1,0 +1,19 @@
+(cl:defpackage base_nav-msg
+  (:use )
+  (:export
+   "<DOCKACTION>"
+   "DOCKACTION"
+   "<DOCKACTIONFEEDBACK>"
+   "DOCKACTIONFEEDBACK"
+   "<DOCKACTIONGOAL>"
+   "DOCKACTIONGOAL"
+   "<DOCKACTIONRESULT>"
+   "DOCKACTIONRESULT"
+   "<DOCKFEEDBACK>"
+   "DOCKFEEDBACK"
+   "<DOCKGOAL>"
+   "DOCKGOAL"
+   "<DOCKRESULT>"
+   "DOCKRESULT"
+  ))
+

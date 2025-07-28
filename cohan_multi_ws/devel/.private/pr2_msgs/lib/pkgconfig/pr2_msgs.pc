@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/devel/.private/pr2_msgs
+
+Name: pr2_msgs
+Description: Description of pr2_msgs
+Version: 1.13.1
+Cflags: -I/home/shari/cohan_multi_ws/devel/.private/pr2_msgs/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs geometry_msgs

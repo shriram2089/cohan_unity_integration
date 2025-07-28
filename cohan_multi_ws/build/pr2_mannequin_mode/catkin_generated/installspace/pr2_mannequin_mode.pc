@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/install
+
+Name: pr2_mannequin_mode
+Description: Description of pr2_mannequin_mode
+Version: 0.6.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: trajectory_msgs pr2_controllers_msgs

@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/devel/.private/rviz_path_array
+
+Name: rviz_path_array
+Description: Description of rviz_path_array
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/devel/.private/cohan_layers
+
+Name: cohan_layers
+Description: Description of cohan_layers
+Version: 0.0.1
+Cflags: -I/home/shari/cohan_multi_ws/devel/.private/cohan_layers/include -I/home/shari/cohan_multi_ws/src/cohan_planner_multi/cohan_layers/include
+Libs: -L${prefix}/lib -lcohan_layers
+Requires: angles costmap_2d dynamic_reconfigure geometry_msgs cohan_msgs pluginlib roscpp rospy

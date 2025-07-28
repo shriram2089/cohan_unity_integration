@@ -1,0 +1,4 @@
+pr2_navigation/pr2_navigation_slam
+/home/shari/cohan_multi_ws/devel/.private/pr2_navigation_slam/lib/pkgconfig/pr2_navigation_slam.pc /home/shari/cohan_multi_ws/devel/lib/pkgconfig/pr2_navigation_slam.pc
+/home/shari/cohan_multi_ws/devel/.private/pr2_navigation_slam/share/pr2_navigation_slam/cmake/pr2_navigation_slamConfig-version.cmake /home/shari/cohan_multi_ws/devel/share/pr2_navigation_slam/cmake/pr2_navigation_slamConfig-version.cmake
+/home/shari/cohan_multi_ws/devel/.private/pr2_navigation_slam/share/pr2_navigation_slam/cmake/pr2_navigation_slamConfig.cmake /home/shari/cohan_multi_ws/devel/share/pr2_navigation_slam/cmake/pr2_navigation_slamConfig.cmake

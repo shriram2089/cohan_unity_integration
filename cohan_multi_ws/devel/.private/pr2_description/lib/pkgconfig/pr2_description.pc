@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/devel/.private/pr2_description
+
+Name: pr2_description
+Description: Description of pr2_description
+Version: 1.13.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: xacro

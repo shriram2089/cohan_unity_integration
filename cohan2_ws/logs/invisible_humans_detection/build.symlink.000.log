@@ -1,0 +1,5 @@
+Symlinking /home/shari/cohan2_ws/devel/lib/libinvisible_humans_detection.so
+Symlinking /home/shari/cohan2_ws/devel/lib/invisible_humans_detection/invisible_humans_detection_node
+Symlinking /home/shari/cohan2_ws/devel/lib/pkgconfig/invisible_humans_detection.pc
+Symlinking /home/shari/cohan2_ws/devel/share/invisible_humans_detection/cmake/invisible_humans_detectionConfig.cmake
+Symlinking /home/shari/cohan2_ws/devel/share/invisible_humans_detection/cmake/invisible_humans_detectionConfig-version.cmake

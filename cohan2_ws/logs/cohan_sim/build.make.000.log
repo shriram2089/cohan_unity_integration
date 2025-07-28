@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target libsim[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/libsim.dir/src/sim.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /home/shari/cohan2_ws/devel/.private/cohan_sim/lib/liblibsim.so[0m
+[ 50%] Built target libsim
+[35m[1mScanning dependencies of target simros_node[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/simros_node.dir/src/simros.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/shari/cohan2_ws/devel/.private/cohan_sim/lib/cohan_sim/simros_node[0m
+[100%] Built target simros_node

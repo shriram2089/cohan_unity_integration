@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/install
+
+Name: pr2_machine
+Description: Description of pr2_machine
+Version: 1.13.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

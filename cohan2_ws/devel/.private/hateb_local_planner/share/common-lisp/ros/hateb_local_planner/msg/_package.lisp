@@ -1,0 +1,15 @@
+(cl:defpackage hateb_local_planner-msg
+  (:use )
+  (:export
+   "<FEEDBACKMSG>"
+   "FEEDBACKMSG"
+   "<OBSTACLEMSG>"
+   "OBSTACLEMSG"
+   "<OPTIMIZATIONCOST>"
+   "OPTIMIZATIONCOST"
+   "<OPTIMIZATIONCOSTARRAY>"
+   "OPTIMIZATIONCOSTARRAY"
+   "<PLANNINGMODE>"
+   "PLANNINGMODE"
+  ))
+

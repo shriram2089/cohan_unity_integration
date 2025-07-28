@@ -1,0 +1,2 @@
+set(agent_path_prediction_MESSAGE_FILES "/home/shari/cohan_multi_ws/src/cohan_planner_multi/agent_path_prediction/msg/PredictedPoses.msg;/home/shari/cohan_multi_ws/src/cohan_planner_multi/agent_path_prediction/msg/PredictedGoal.msg;/home/shari/cohan_multi_ws/src/cohan_planner_multi/agent_path_prediction/msg/AgentPose.msg")
+set(agent_path_prediction_SERVICE_FILES "/home/shari/cohan_multi_ws/src/cohan_planner_multi/agent_path_prediction/srv/AgentPosePredict.srv;/home/shari/cohan_multi_ws/src/cohan_planner_multi/agent_path_prediction/srv/AgentGoal.srv")

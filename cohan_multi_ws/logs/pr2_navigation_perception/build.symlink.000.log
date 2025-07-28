@@ -1,0 +1,4 @@
+Symlinking /home/shari/cohan_multi_ws/devel/lib/libpr2_point_cloud_filters.so
+Symlinking /home/shari/cohan_multi_ws/devel/lib/pkgconfig/pr2_navigation_perception.pc
+Symlinking /home/shari/cohan_multi_ws/devel/share/pr2_navigation_perception/cmake/pr2_navigation_perceptionConfig-version.cmake
+Symlinking /home/shari/cohan_multi_ws/devel/share/pr2_navigation_perception/cmake/pr2_navigation_perceptionConfig.cmake

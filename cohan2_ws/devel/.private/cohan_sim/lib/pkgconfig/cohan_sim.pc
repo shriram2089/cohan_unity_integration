@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan2_ws/devel/.private/cohan_sim
+
+Name: cohan_sim
+Description: Description of cohan_sim
+Version: 0.0.1
+Cflags: -I/home/shari/cohan2_ws/src/CoHAN2.0/src/cohan2.0_navigation/simulators/cohan_sim/include
+Libs: -L${prefix}/lib -lcohan_sim
+Requires: 

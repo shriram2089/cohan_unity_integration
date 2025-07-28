@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan2_ws/install
+
+Name: cohan_sim
+Description: Description of cohan_sim
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lcohan_sim
+Requires: 

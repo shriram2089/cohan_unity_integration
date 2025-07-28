@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/devel/.private/semantic_point_annotator
+
+Name: semantic_point_annotator
+Description: Description of semantic_point_annotator
+Version: 0.2.0
+Cflags: -I/home/shari/cohan_multi_ws/src/pr2_navigation/semantic_point_annotator/include
+Libs: -L${prefix}/lib 
+Requires: roscpp tf pcl_ros

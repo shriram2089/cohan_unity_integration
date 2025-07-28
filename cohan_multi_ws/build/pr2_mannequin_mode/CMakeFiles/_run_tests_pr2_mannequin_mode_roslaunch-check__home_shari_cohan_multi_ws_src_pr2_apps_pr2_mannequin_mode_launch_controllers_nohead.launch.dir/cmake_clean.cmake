@@ -1,0 +1,8 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/_run_tests_pr2_mannequin_mode_roslaunch-check__home_shari_cohan_multi_ws_src_pr2_apps_pr2_mannequin_mode_launch_controllers_nohead.launch"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/_run_tests_pr2_mannequin_mode_roslaunch-check__home_shari_cohan_multi_ws_src_pr2_apps_pr2_mannequin_mode_launch_controllers_nohead.launch.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

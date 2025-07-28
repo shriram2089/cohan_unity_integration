@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/devel/.private/pr2_gazebo
+
+Name: pr2_gazebo
+Description: Description of pr2_gazebo
+Version: 2.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

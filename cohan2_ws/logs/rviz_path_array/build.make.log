@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target rviz_path_array_autogen[0m
+[ 25%] [34m[1mAutomatic MOC for target rviz_path_array[0m
+[ 25%] Built target rviz_path_array_autogen
+[35m[1mScanning dependencies of target rviz_path_array[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/rviz_path_array.dir/rviz_path_array_autogen/mocs_compilation.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/rviz_path_array.dir/src/patharray_display.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/shari/cohan2_ws/devel/.private/rviz_path_array/lib/librviz_path_array.so[0m
+[100%] Built target rviz_path_array

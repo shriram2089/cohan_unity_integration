@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan2_ws/devel/.private/cohan_tutorial
+
+Name: cohan_tutorial
+Description: Description of cohan_tutorial
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

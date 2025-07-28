@@ -1,0 +1,5 @@
+Symlinking /home/shari/cohan2_ws/devel/lib/liblibsim.so
+Symlinking /home/shari/cohan2_ws/devel/lib/cohan_sim/simros_node
+Symlinking /home/shari/cohan2_ws/devel/lib/pkgconfig/cohan_sim.pc
+Symlinking /home/shari/cohan2_ws/devel/share/cohan_sim/cmake/cohan_simConfig.cmake
+Symlinking /home/shari/cohan2_ws/devel/share/cohan_sim/cmake/cohan_simConfig-version.cmake

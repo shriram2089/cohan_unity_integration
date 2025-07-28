@@ -1,0 +1,6 @@
+Symlinking /home/shari/cohan_multi_ws/devel/lib/pr2_teleop/teleop_pr2
+Symlinking /home/shari/cohan_multi_ws/devel/lib/pr2_teleop/teleop_pr2_keyboard
+Symlinking /home/shari/cohan_multi_ws/devel/lib/pr2_teleop/teleop_gripper
+Symlinking /home/shari/cohan_multi_ws/devel/lib/pkgconfig/pr2_teleop.pc
+Symlinking /home/shari/cohan_multi_ws/devel/share/pr2_teleop/cmake/pr2_teleopConfig-version.cmake
+Symlinking /home/shari/cohan_multi_ws/devel/share/pr2_teleop/cmake/pr2_teleopConfig.cmake

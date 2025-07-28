@@ -1,0 +1,12 @@
+[ 40%] Built target pr2_navigation_geometric_shapes
+[ 60%] Built target pr2_navigation_self_filter
+[ 70%] [32mBuilding CXX object CMakeFiles/self_filter.dir/src/self_filter.cpp.o[0m
+[ 80%] [32m[1mLinking CXX executable /home/shari/cohan_multi_ws/devel/.private/pr2_navigation_self_filter/lib/pr2_navigation_self_filter/test_filter[0m
+In file included from [01m[K/home/shari/cohan_multi_ws/src/pr2_navigation/pr2_navigation_self_filter/include/pr2_navigation_self_filter/self_see_filter.h:33[m[K,
+                 from [01m[K/home/shari/cohan_multi_ws/src/pr2_navigation/pr2_navigation_self_filter/src/self_filter.cpp:39[m[K:
+[01m[K/opt/ros/noetic/include/filters/filter_base.h:40:2:[m[K [01;35m[Kwarning: [m[K#warning Including header <filters/filter_base.h> is deprecated, include <filters/filter_base.hpp> instead. [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wcpp-Wcpp]8;;[m[K]
+   40 | #[01;35m[Kwarning[m[K Including header <filters/filter_base.h> is deprecated, \
+      |  [01;35m[K^~~~~~~[m[K
+[ 90%] Built target test_filter
+[100%] [32m[1mLinking CXX executable /home/shari/cohan_multi_ws/devel/.private/pr2_navigation_self_filter/lib/pr2_navigation_self_filter/self_filter[0m
+[100%] Built target self_filter

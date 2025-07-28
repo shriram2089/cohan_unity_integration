@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan_multi_ws/install
+
+Name: agent_path_prediction
+Description: Description of agent_path_prediction
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: dynamic_reconfigure geometry_msgs cohan_msgs message_runtime nav_msgs roscpp std_srvs tf visualization_msgs

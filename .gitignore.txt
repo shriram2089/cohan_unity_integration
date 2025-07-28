@@ -1,0 +1,29 @@
+# Unity
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ogs/
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.tmp
+*.exe
+*.dll
+*.mp4
+*.png
+*.psd
+*.fbx
+*.zip
+
+# ROS
+build/
+devel/
+install/
+*.pyc
+__pycache__/
+
+# Misc
+.DS_Store
+.vscode/

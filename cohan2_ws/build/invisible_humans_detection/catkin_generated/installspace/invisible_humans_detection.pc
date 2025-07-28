@@ -1,0 +1,8 @@
+prefix=/home/shari/cohan2_ws/install
+
+Name: invisible_humans_detection
+Description: Description of invisible_humans_detection
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -linvisible_humans_detection
+Requires: angles costmap_2d geometry_msgs roscpp rospy nav_msgs

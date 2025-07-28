@@ -1,0 +1,4 @@
+aws-robomaker-hospital-world
+/home/shari/cohan_multi_ws/devel/.private/aws_robomaker_hospital_world/lib/pkgconfig/aws_robomaker_hospital_world.pc /home/shari/cohan_multi_ws/devel/lib/pkgconfig/aws_robomaker_hospital_world.pc
+/home/shari/cohan_multi_ws/devel/.private/aws_robomaker_hospital_world/share/aws_robomaker_hospital_world/cmake/aws_robomaker_hospital_worldConfig.cmake /home/shari/cohan_multi_ws/devel/share/aws_robomaker_hospital_world/cmake/aws_robomaker_hospital_worldConfig.cmake
+/home/shari/cohan_multi_ws/devel/.private/aws_robomaker_hospital_world/share/aws_robomaker_hospital_world/cmake/aws_robomaker_hospital_worldConfig-version.cmake /home/shari/cohan_multi_ws/devel/share/aws_robomaker_hospital_world/cmake/aws_robomaker_hospital_worldConfig-version.cmake

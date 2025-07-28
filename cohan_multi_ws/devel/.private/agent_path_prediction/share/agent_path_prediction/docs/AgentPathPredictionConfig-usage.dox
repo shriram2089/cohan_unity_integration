@@ -1,0 +1,17 @@
+\subsubsection usage Usage
+\verbatim
+<node name="agent_path_prediction" pkg="agent_path_prediction" type="agent_path_prediction">
+  <param name="velscale_lower" type="double" value="0.8" />
+  <param name="velscale_nominal" type="double" value="1.0" />
+  <param name="velscale_higher" type="double" value="1.2" />
+  <param name="velscale_angle" type="double" value="0.1" />
+  <param name="velscale_mul" type="double" value="1.0" />
+  <param name="velobs_mul" type="double" value="1.0" />
+  <param name="velobs_min_rad" type="double" value="0.25" />
+  <param name="velobs_max_rad" type="double" value="0.75" />
+  <param name="velobs_max_rad_time" type="double" value="4.0" />
+  <param name="velobs_use_ang" type="bool" value="True" />
+  <param name="robot_frame_id" type="str" value="base_footprint" />
+</node>
+\endverbatim
+

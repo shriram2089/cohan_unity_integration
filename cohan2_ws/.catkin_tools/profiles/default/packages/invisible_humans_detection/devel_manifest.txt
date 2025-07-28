@@ -1,0 +1,6 @@
+CoHAN2.0/src/invisible_humans_detection
+/home/shari/cohan2_ws/devel/.private/invisible_humans_detection/lib/libinvisible_humans_detection.so /home/shari/cohan2_ws/devel/lib/libinvisible_humans_detection.so
+/home/shari/cohan2_ws/devel/.private/invisible_humans_detection/lib/invisible_humans_detection/invisible_humans_detection_node /home/shari/cohan2_ws/devel/lib/invisible_humans_detection/invisible_humans_detection_node
+/home/shari/cohan2_ws/devel/.private/invisible_humans_detection/lib/pkgconfig/invisible_humans_detection.pc /home/shari/cohan2_ws/devel/lib/pkgconfig/invisible_humans_detection.pc
+/home/shari/cohan2_ws/devel/.private/invisible_humans_detection/share/invisible_humans_detection/cmake/invisible_humans_detectionConfig.cmake /home/shari/cohan2_ws/devel/share/invisible_humans_detection/cmake/invisible_humans_detectionConfig.cmake
+/home/shari/cohan2_ws/devel/.private/invisible_humans_detection/share/invisible_humans_detection/cmake/invisible_humans_detectionConfig-version.cmake /home/shari/cohan2_ws/devel/share/invisible_humans_detection/cmake/invisible_humans_detectionConfig-version.cmake

@@ -1,0 +1,4 @@
+CoHAN2.0/src/cohan_tutorial
+/home/shari/cohan2_ws/devel/.private/cohan_tutorial/lib/pkgconfig/cohan_tutorial.pc /home/shari/cohan2_ws/devel/lib/pkgconfig/cohan_tutorial.pc
+/home/shari/cohan2_ws/devel/.private/cohan_tutorial/share/cohan_tutorial/cmake/cohan_tutorialConfig-version.cmake /home/shari/cohan2_ws/devel/share/cohan_tutorial/cmake/cohan_tutorialConfig-version.cmake
+/home/shari/cohan2_ws/devel/.private/cohan_tutorial/share/cohan_tutorial/cmake/cohan_tutorialConfig.cmake /home/shari/cohan2_ws/devel/share/cohan_tutorial/cmake/cohan_tutorialConfig.cmake

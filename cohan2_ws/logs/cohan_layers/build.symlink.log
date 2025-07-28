@@ -1,0 +1,16 @@
+Symlinking /home/shari/cohan2_ws/devel/include/cohan_layers/AgentVisibilityLayerConfig.h
+Symlinking /home/shari/cohan2_ws/devel/include/cohan_layers/AgentStaticLayerConfig.h
+Symlinking /home/shari/cohan2_ws/devel/lib/libcohan_layers.so
+Symlinking /home/shari/cohan2_ws/devel/lib/python3/dist-packages/cohan_layers/__init__.py
+Symlinking /home/shari/cohan2_ws/devel/lib/python3/dist-packages/cohan_layers/cfg/AgentStaticLayerConfig.py
+Symlinking /home/shari/cohan2_ws/devel/lib/python3/dist-packages/cohan_layers/cfg/__init__.py
+Symlinking /home/shari/cohan2_ws/devel/lib/python3/dist-packages/cohan_layers/cfg/AgentVisibilityLayerConfig.py
+Symlinking /home/shari/cohan2_ws/devel/lib/pkgconfig/cohan_layers.pc
+Symlinking /home/shari/cohan2_ws/devel/share/cohan_layers/docs/AgentVisibilityLayerConfig.dox
+Symlinking /home/shari/cohan2_ws/devel/share/cohan_layers/docs/AgentStaticLayerConfig.wikidoc
+Symlinking /home/shari/cohan2_ws/devel/share/cohan_layers/docs/AgentStaticLayerConfig.dox
+Symlinking /home/shari/cohan2_ws/devel/share/cohan_layers/docs/AgentStaticLayerConfig-usage.dox
+Symlinking /home/shari/cohan2_ws/devel/share/cohan_layers/docs/AgentVisibilityLayerConfig-usage.dox
+Symlinking /home/shari/cohan2_ws/devel/share/cohan_layers/docs/AgentVisibilityLayerConfig.wikidoc
+Symlinking /home/shari/cohan2_ws/devel/share/cohan_layers/cmake/cohan_layersConfig-version.cmake
+Symlinking /home/shari/cohan2_ws/devel/share/cohan_layers/cmake/cohan_layersConfig.cmake
