@@ -1,0 +1,4 @@
+ecohan
+/home/shari/ECoHAN/devel/.private/ecohan/lib/pkgconfig/ecohan.pc /home/shari/ECoHAN/devel/lib/pkgconfig/ecohan.pc
+/home/shari/ECoHAN/devel/.private/ecohan/share/ecohan/cmake/ecohanConfig-version.cmake /home/shari/ECoHAN/devel/share/ecohan/cmake/ecohanConfig-version.cmake
+/home/shari/ECoHAN/devel/.private/ecohan/share/ecohan/cmake/ecohanConfig.cmake /home/shari/ECoHAN/devel/share/ecohan/cmake/ecohanConfig.cmake
