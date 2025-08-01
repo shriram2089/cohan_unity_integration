@@ -1,0 +1,96 @@
+<launch>
+ 
+  <arg name="map_name" default="map_laas_adream"/>
+  <!-- <arg name="robot_initial_pose" default="-x 2 -y 2 -z 0.0 -Y 1.57"/> -->
+
+   <arg name="node_start_delay" default="4.0" />
+   <arg name="random_goals_delay" default="0.0" />
+  <arg name="localize" default="fake"/>
+  <arg name="num_agents" default="3"/>
+  <arg name="robot_planner" default="cohan"/>
+    <!-- <arg name="ns" default="human1"/> -->
+ 
+
+  <!-- <param name="use_sim_time" value="true"/> -->
+
+  <!-- <include file="$(find pr2_description)/robots/upload_pr2.launch" /> -->
+  <param name="/use_sim_time" value="false"/>
+
+
+  <!-- Map Server -->
+  <node name="map_server" pkg="map_server" type="map_server"
+        args="$(find unity_cohan_navigation)/maps/$(arg map_name).yaml" />
+
+  <!-- <node pkg="tf" type="static_transform_publisher" name="map_to_base_link"
+        args="0 0 0 0 0 0 map base_link 100" /> -->
+
+  <!-- Static TF: map -> odom -->
+  <node pkg="tf2_ros" type="static_transform_publisher" name="map_to_odom"
+        args="0 0 0 0 0 0 map odom" />
+
+         <node pkg="tf2_ros" type="static_transform_publisher" name="odom_to_odom_combined"
+        args="0 0 0 0 0 0 odom odom_combined" />
+
+
+  <node pkg="tf2_ros" type="static_transform_publisher" name="odom_combined_to_base_footprint"
+      args="0 0 0 0 0 0 odom_combined base_footprint" />
+
+
+
+
+  <!-- <include file="$(find cohan_navigation)/launch/stage_pr2_multi_launch/include/robo_description.launch"/> -->
+
+
+    <!-- <include file="$(find cohan_navigation)/launch/gazebo_pr2_multi_launch/include/robot_only.launch">
+    <arg name="node_start_delay" value="$(arg node_start_delay)" />
+    <arg name="localize" value="$(arg localize)"/>
+    <arg name="num_agents" value="$(arg num_agents)"/>
+    <arg name="robot_planner" value="$(arg robot_planner)"/>
+  </include> -->
+
+
+  <include file="$(find unity_cohan_navigation)/launch/include/robot_only.launch">
+    <arg name="node_start_delay" value="$(arg node_start_delay)" />
+    <arg name="localize" value="$(arg localize)"/>
+    <arg name="num_agents" value="$(arg num_agents)"/>
+  </include>
+
+
+      <!-- <include file="$(find cohan_navigation)/launch/gazebo_pr2_multi_launch/include/localization.launch">
+    <arg name="localize" value="$(arg localize)"/>
+  </include> -->
+
+<!-- 
+    <include file="$(find unity_cohan_navigation)/launch/include/agent_with_ns.launch">
+    <arg name="ns" value="$(arg ns)"/>
+    <arg name="node_start_delay" value="$(arg node_start_delay)" />
+    <arg name="localize" value="$(arg localize)"/>
+    <arg name="num_agents" value="$(arg num_agents)"/>
+  </include> -->
+
+
+
+
+
+  <!-- <node pkg="cohan_gazebo" type="actor_path_publisher.py" name="human_path_controller" output="screen"/> -->
+
+   <node pkg="unity_cohan_navigation" type="tf_pub.py" name="tf_pub" output="screen"/>
+  <!-- <node pkg="unity_cohan_navigation" type="humans_odom_relay.py" name="humans_odom_relay" output="screen"/> -->
+  <node pkg="unity_cohan_navigation" type="pr2_odom_relay.py" name="pr2_odom_relay" output="screen"/>
+    <!-- <node pkg="unity_cohan_navigation" type="head_motion_traj.py" name="head_motion_traj" output="screen"/> -->
+    <!-- <node pkg="unity_cohan_navigation" type="head_motion_agent.py" name="head_motion_agent" output="screen"/> -->
+ 
+  <!-- <node pkg="unity_cohan_navigation" type="stage_joints.py" name="pr2_joints" output="screen" launch-prefix="bash -c 'sleep $(arg node_start_delay); $0 $@' "/> -->
+
+  <node pkg="unity_cohan_navigation" type="stage_joints_2.py" name="pr2_joint_states" output="screen"/>
+
+  <!-- <node pkg="unity_cohan_navigation" type="move_base_random_goals.py" name="random_goals" launch-prefix="bash -c 'sleep $(arg random_goals_delay); $0 $@' "/> -->
+
+
+  <!-- <node pkg="unity_cohan_navigation" type="agent_goal_CoHAN.py" name="agent_goal_pub" output="screen"/> -->
+
+
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find unity_cohan_navigation)/rviz/cohan_stage.rviz" />
+
+  
+</launch>
